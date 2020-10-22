@@ -18,7 +18,7 @@ body {
     justify-content: center;
     align-items: center;
     position: relative;
-    overflow-x: hidden;
+    overflow: hidden;
   }
   .welcome__container {
     background-color: #61ff71;
