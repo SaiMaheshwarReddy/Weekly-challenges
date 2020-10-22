@@ -17,7 +17,17 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
+  }
+  .full__container {
+    width: 100vw;
+    height: 100vh;
     position: relative;
+    overflow: hidden;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     overflow: hidden;
   }
   .welcome__container {
