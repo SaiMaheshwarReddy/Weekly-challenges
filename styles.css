@@ -17,8 +17,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    position: relative;
-    overflow: hidden;
   }
   .full__container {
     width: 100vw;
