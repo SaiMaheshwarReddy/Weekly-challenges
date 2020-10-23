@@ -17,6 +17,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
     overflow: hidden;
   }
   .full__container {
@@ -28,7 +29,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden;
   }
   .welcome__container {
     background-color: #61ff71;
